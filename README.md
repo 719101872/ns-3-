@@ -23,3 +23,6 @@
 在设置videoStreamTest.cc中带宽为2mb之后再重新编译并执行
 `sudo ./waf --run videoStreamer`后可以看到
 ![编译结果](image/ns-3_2m_video1.png) 
+####这个是framelist图  
+![编译结果](image/framelist.png) 
+代码中是每2ms传输一次模拟视频，这个list是每次传输的模拟视频帧数量
