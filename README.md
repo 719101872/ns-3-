@@ -4,7 +4,7 @@
 `wget http://www.nsnam.org/release/ns-allinone-3.30.tar.bz2`  
 ####解压安装包
 `tar xjf ns-allinone-3.30.tar.bz2`  
-#### ns-allinone-3.30 文件下ns-3编译(ns-3编译4BG内存是不够使用的，我提供的是8gb内，而且需要提供足够的存储空间)
+#### ns-allinone-3.30 文件下ns-3编译(ns-3编译4BG内存是不够使用的，我提供的是8gb内存，而且需要提供足够的存储空间)
 `sudo ./build.py --enable-examples --enable-tests`  
 ![编译结果](image/1.png)  
 ###测试videostream  
