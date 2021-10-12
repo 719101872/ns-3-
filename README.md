@@ -14,7 +14,7 @@
 在ns-3.30目录下执行
 `sudo ./waf clean`  
 `sudo ./waf`  
-最后结果养龟与上附图一致  
+最后结果与上附图一致  
 #### 代码测试  
 在ns-3.30目录执行
 `sudo ./waf --run videoStreamer`
